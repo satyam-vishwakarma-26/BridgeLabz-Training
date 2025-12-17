@@ -8,6 +8,6 @@ public class FindPCMAverage{
  
  double Avg_PCM=(Math_Marks+Physics_Marks+Chemistry_Marks)/3;
  
-  System.out.println("Average Of PCM: "+Avg_PCM);
+  System.out.println("Sam’s average mark in PCM is: "+Avg_PCM);
  }
 }
