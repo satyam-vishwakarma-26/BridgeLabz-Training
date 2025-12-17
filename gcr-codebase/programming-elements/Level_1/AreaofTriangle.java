@@ -19,7 +19,7 @@ public class AreaofTriangle{
           double areaInSqCm = areaInSqInches * 6.4516;
 
         // Output of area
-        System.out.println("Area of triangle:");
+        System.out.println("Area of triangle in inches and centimeters:");
         System.out.println("In square inches = " + areaInSqInches);
         System.out.println("In square centimeters = " + areaInSqCm);
   }
