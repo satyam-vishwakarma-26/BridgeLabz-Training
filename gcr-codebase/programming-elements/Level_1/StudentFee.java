@@ -17,7 +17,7 @@ System.out.print("Enter Fee Discount Percent: ");
 //Remaining fee that needs to be paid
  double Remaining_Fee=fee-Discount;
 
-//Printing Pen distribution 
+//Printing Discount and Remaining fees
  System.out.println("The discount amount is INR: " +Discount+ ",  and final discounted fee is INR: "+Remaining_Fee);
 
 
