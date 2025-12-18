@@ -7,12 +7,12 @@ public class FactorsOfNumberII{
         Scanner sc=new Scanner(System.in);
         
         //Taking user input
-        System.out.print("Enter a number: ");
+        System.out.println("Enter a number which need to check: ");
         int number=sc.nextInt();
         
         //check for positive integer
         if(number>0){
-            System.out.println("Factors of "+number+" are:");
+            System.out.println("Factors of: "+number+" are:");
             int i=1;
             while(i<=number){
                 if(number%i==0){
@@ -21,7 +21,7 @@ public class FactorsOfNumberII{
                 i++;
             }
         }else{
-            System.out.println("Please enter a positive integer");
+            System.out.print("Please enter a positive integer");
         }
     }
 }
