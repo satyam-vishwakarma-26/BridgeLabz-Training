@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class SumofNumbersIII {
+public class SumofNumbersIV {
 
    public static void main (String [] args){
    
@@ -13,22 +13,20 @@ public class SumofNumbersIII {
         if (n <= 0) {
             System.out.println("Please enter a natural number (greater than 0).");
         } else {
-            int sumWhile = 0;
-            int i = 1;
-            while (i <= n) {
-                sumWhile = sumWhile + i;
-                i++;
+            int sumFor = 0;
+           for(int i=1;i<n;i++){
+			   sumFor+=n;
             }
 
             // Sum using formula
             int sumFormula = n * (n + 1) / 2;
 
             // Print both results
-            System.out.println("Sum using while loop: " + sumWhile);
+            System.out.println("Sum using for loop: " + sumFor);
             System.out.println("Sum using formula n*(n+1)/2: " + sumFormula);
 
             // Compare both results
-            if (sumWhile == sumFormula) {
+            if (sumFor == sumFormula) {
                 System.out.println("Both results are correct and equal.");
             } else {
                 System.out.println("Results are not equal.");
