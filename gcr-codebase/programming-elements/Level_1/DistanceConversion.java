@@ -1,21 +1,15 @@
-public class ProfitCalculation{
+import java.util.Scanner;
+public class DistanceConversion{
  public static void main(String [] args){
  
-// Cost Price
- int Cost_Price=129;
-//Selling Price
- int Selling_Price=191;
+// Distance in Kilometers
+ double Kilometers=10.8;
 
+// distance Calculation
+ double Miles=(Kilometers*1.6);
 
-// Profit Calculation
- int Profit=Selling_Price-Cost_Price;
-//profit percentage calculation
- int Profit_Percentage= Profit/Cost_Price*;
+//Printing the Distance in miles 
+ System.out.println("The distance " +Kilometers+ ", in miles is "+Miles);
 
-//Printing Profit and Profit Percentage 
- System.out.println("The Cost Price is INR " +Cost_Price+ ", and Selling Price is INR "+Selling_Price);
-System.out.println("The Profit is INR " +Profit+ ", and the Profit Percentage is "+Profit_Percentage);
-
-
- }
+}
 }

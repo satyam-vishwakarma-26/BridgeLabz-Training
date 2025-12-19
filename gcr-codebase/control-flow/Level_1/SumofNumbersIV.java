@@ -4,9 +4,9 @@ public class SumofNumbersIV {
    public static void main (String [] args){
    
    
-	Scanner inputs=new  Scanner(System.in);
-		//making variables 
-		System.out.print("Enter a number: ");
+   Scanner inputs=new  Scanner(System.in);
+   //making variables 
+   System.out.print("Enter a number: ");
         int n = inputs.nextInt();
 
         // Check if the number is a natural number
