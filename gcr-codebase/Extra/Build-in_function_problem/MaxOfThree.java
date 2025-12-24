@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class MaxOfThree{
+	
     //take input
     public static int takeInput(Scanner sc,String msg){
         System.out.print(msg);
