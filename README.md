@@ -35,6 +35,7 @@ BridgeLabz-Training/
 This structure is designed to organize Core Java practice programs in a clear and modular way,
 making it easier to navigate and maintain as the training progresses.
 
+
 ### 🗓 Day 2 – Git Practice & Basic Java Programs
 
 **Date:** 17 December 2025
@@ -49,6 +50,7 @@ On the second day, the focus was on strengthening Git workflow understanding and
 
 🔗 **Code Reference:**  
 👉 [Day 2 – Basic Java Programs](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program-Prerequisite)
+
 
 ### 🗓 Day 3 – Programming Elements in Java  
 **Date:** 18 December 2025
@@ -65,3 +67,28 @@ On the third day of training, the focus was on understanding the fundamental pro
 
 🔗 **Code Reference:**  
 👉 [Day 3 – Programming Elements](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+
+
+### 🗓 Day 4 – Control Flow & Logical Constructs  
+**Date:** 19 December 2025
+
+On the fourth day of training, the focus was on understanding control flow mechanisms and logical constructs in Java, which are essential for implementing decision-making and iterative logic in programs.
+
+#### Activities Completed
+- Studied decision-making constructs in Java, including:
+  - `if` and `if-else` statements
+  - `switch` statement
+  - Ternary operator
+- Practiced iteration constructs such as:
+  - `for` loop
+  - `while` loop
+  - `do-while` loop
+- Applied `break` and `continue` statements to control loop execution.
+- Implemented logical problem-solving programs, including:
+  - Factorial calculation
+  - Prime number validation
+- Committed and pushed all completed programs to the remote repository using standard Git practices.
+
+🔗 **Code Reference:**  
+👉 [Day 4 – Control Flow](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+
