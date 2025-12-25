@@ -111,3 +111,26 @@ On the fifth day of training, the focus was on understanding array data structur
 
 🔗 **Code Reference:**  
 👉 [Day 5 – Arrays](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+
+
+### 🗓 Day 6 – Strings & Methods  
+**Date:** 22 December 2025
+
+On the sixth day of training, the focus was on understanding string handling mechanisms and method implementation in Java, which are essential for building modular and maintainable programs.
+
+#### Activities Completed
+- Studied string-related concepts in Java, including:
+  - String creation and initialization
+  - Common String methods
+  - Character-level processing
+- Implemented programs to perform various string manipulation operations.
+- Studied Java methods, covering:
+  - Method declaration and definition
+  - Method invocation
+  - Parameter passing techniques
+- Practiced writing reusable and modular logic using methods.
+- Committed and pushed all implemented solutions to the remote repository using standard Git practices.
+
+🔗 **Code Reference:**  
+👉 [Day 6 – Strings & Methods](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
+
