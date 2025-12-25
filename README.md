@@ -16,22 +16,21 @@ On the first day of training, the focus was on setting up version control tools 
   - `git push`
 - Successfully pushed local files to the remote repository.
 
-#### Repository Structure
-
+#### 📁 Project Structure
+```text
 BridgeLabz-Training/
-│── core-java-practice/
-│ │── gcr-codebase/
-│ │ │── arrays/
-│ │ │── control-flow/
-│ │ │── extras/
-│ │ │── methods/
-│ │ │── programming-elements/
-│ │ │── programming-requisites/
-│ │ │── strings/
-│ │── leet-code-codebase/
-│ │── scenario-based-codebase/
-│── README.md
-
+├── core-java-practice/
+│   ├── gcr-codebase/
+│   │   ├── arrays/
+│   │   ├── builtin-functions/
+│   │   ├── control-flow/
+│   │   ├── java-methods/
+│   │   ├── programming-elements/
+│   │   ├── string-handling/
+│   │   └── strings/
+│   ├── leet-code-codebase/
+│   └── scenario-based/
+└── README.md
 
 This structure is designed to organize Core Java practice programs in a clear and modular way,
 making it easier to navigate and maintain as the training progresses.
