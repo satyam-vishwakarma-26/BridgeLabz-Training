@@ -35,13 +35,13 @@ BridgeLabz-Training/
 This structure is designed to organize Core Java practice programs in a clear and modular way,
 making it easier to navigate and maintain as the training progresses.
 
-🗓 Day 2 – Git Practice & Basic Java Programs
+###🗓 Day 2 – Git Practice & Basic Java Programs
 
-Date: 17 December 2025
+**Date:** 17 December 2025
 
 On the second day, the focus was on strengthening Git workflow understanding and practicing basic Java programming concepts.
 
-Activities Completed
+####Activities Completed
 
 Practiced Git workflows to better understand commits and version control.
 
@@ -49,5 +49,5 @@ Solved basic Java programs to understand syntax and program structure.
 
 Practiced adding, committing, and pushing Java files to GitHub.
 
-🔗 Code Reference:
+🔗 Code Reference:https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program-Prerequisite
 👉 Day 2 – Basic Java Programs
