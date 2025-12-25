@@ -92,3 +92,22 @@ On the fourth day of training, the focus was on understanding control flow mecha
 🔗 **Code Reference:**  
 👉 [Day 4 – Control Flow](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
+
+### 🗓 Day 5 – Arrays & Basic Problem Solving  
+**Date:** 20 December 2025
+
+On the fifth day of training, the focus was on understanding array data structures in Java and applying them to solve basic programming problems.
+
+#### Activities Completed
+- Studied array concepts in Java, including:
+  - Single-dimensional arrays
+  - Multi-dimensional arrays
+- Practiced array traversal techniques and common array operations.
+- Implemented solutions for array-based problem statements, including:
+  - Identifying missing elements
+  - Solving basic logical problems using arrays
+- Strengthened problem-solving and logical thinking skills through hands-on practice.
+- Committed and pushed all completed solutions to the remote repository following standard Git workflows.
+
+🔗 **Code Reference:**  
+👉 [Day 5 – Arrays](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
