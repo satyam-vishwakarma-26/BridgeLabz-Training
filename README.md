@@ -17,7 +17,7 @@ On the first day of training, the focus was on setting up version control tools 
 - Successfully pushed local files to the remote repository.
 
 #### 📁 Project Structure
-`
+```text
 BridgeLabz-Training/
 ├── core-java-practice/
 │   ├── gcr-codebase/
@@ -31,8 +31,7 @@ BridgeLabz-Training/
 │   ├── leet-code-codebase/
 │   └── scenario-based/
 └── README.md
-`
-
+```
 This structure is designed to organize Core Java practice programs in a clear and modular way,
 making it easier to navigate and maintain as the training progresses.
 
