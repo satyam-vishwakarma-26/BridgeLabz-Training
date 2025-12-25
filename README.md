@@ -49,3 +49,19 @@ On the second day, the focus was on strengthening Git workflow understanding and
 
 🔗 **Code Reference:**  
 👉 [Day 2 – Basic Java Programs](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program-Prerequisite)
+
+### 🗓 Day 3 – Programming Elements in Java  
+**Date:** 18 December 2025
+
+On the third day of training, the focus was on understanding the fundamental programming elements of Java that form the basis of all application development.
+
+#### Activities Completed
+- Studied core Java programming elements, including:
+  - Variables and data types
+  - Operators
+  - User input and output handling
+- Implemented practice programs to reinforce understanding of programming concepts.
+- Committed and pushed all implemented solutions to the remote repository following standard Git workflows.
+
+🔗 **Code Reference:**  
+👉 [Day 3 – Programming Elements](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
