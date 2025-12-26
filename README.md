@@ -33,6 +33,6 @@ I implemented **10 programs** (5 Level 1 + 5 Level 2) using real-world examples.
 
 
 🔗 **Code Reference:**  
-👉 [Day 8 – LeetCode & Scenario-Based Programs]([https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/scenario-based](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject))
+👉 [Day 8 – Class and Object](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
 ---
