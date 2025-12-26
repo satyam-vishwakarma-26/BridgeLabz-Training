@@ -1,3 +1,7 @@
+# BridgeLabz-Training
+
+---
+
 ## 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
 ### 🗓 Day 1 – Git & GitHub Setup  
@@ -183,7 +187,7 @@ On the eighth day of training, the focus was on enhancing problem-solving skills
 
 ---
 
-# 📅 Week 2: Object-Oriented Programming (OOPs)
+## 📅 Week 2: Object-Oriented Programming (OOPs)
 
 ---
 
