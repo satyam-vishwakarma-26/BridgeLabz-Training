@@ -35,6 +35,7 @@ BridgeLabz-Training/
 This structure is designed to organize Core Java practice programs in a clear and modular way,
 making it easier to navigate and maintain as the training progresses.
 
+---
 
 ### 🗓 Day 2 – Git Practice & Basic Java Programs
 
@@ -51,6 +52,7 @@ On the second day, the focus was on strengthening Git workflow understanding and
 🔗 **Code Reference:**  
 👉 [Day 2 – Basic Java Programs](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program-Prerequisite)
 
+---
 
 ### 🗓 Day 3 – Programming Elements in Java  
 **Date:** 18 December 2025
@@ -68,6 +70,7 @@ On the third day of training, the focus was on understanding the fundamental pro
 🔗 **Code Reference:**  
 👉 [Day 3 – Programming Elements](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
+---
 
 ### 🗓 Day 4 – Control Flow & Logical Constructs  
 **Date:** 19 December 2025
@@ -92,6 +95,7 @@ On the fourth day of training, the focus was on understanding control flow mecha
 🔗 **Code Reference:**  
 👉 [Day 4 – Control Flow](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
+---
 
 ### 🗓 Day 5 – Arrays & Basic Problem Solving  
 **Date:** 20 December 2025
@@ -112,6 +116,7 @@ On the fifth day of training, the focus was on understanding array data structur
 🔗 **Code Reference:**  
 👉 [Day 5 – Arrays](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
+---
 
 ### 🗓 Day 6 – Strings & Methods  
 **Date:** 22 December 2025
@@ -134,6 +139,7 @@ On the sixth day of training, the focus was on understanding string handling mec
 🔗 **Code Reference:**  
 👉 [Day 6 – Strings & Methods](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
 
+---
 
 ### 🗓 Day 7 – Built-in Functions & Extra Work  
 **Date:** 23 December 2025
@@ -152,5 +158,5 @@ On the seventh day of training, the focus was on utilizing Java built-in functio
 
 🔗 **Code Reference:**  
 👉 [Day 7 – Built-in Functions](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extra)
-
+---
 
