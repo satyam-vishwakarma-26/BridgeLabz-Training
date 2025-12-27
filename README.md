@@ -1,4 +1,4 @@
-# BridgeLabz-Training
+<h1 align="center">BridgeLabz-Training</h1>
 
 ---
 
