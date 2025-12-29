@@ -3,12 +3,15 @@ import java.util.*;
 public class NumberGuessing{
 	 public static void main (String []  args){
 	 
+		//Creating Scanner class object 
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Guess the number between (1-100) ");
 		
+		//Generating Random Number 
 		 int number = (int)(Math.random() * 100) + 1;
 		 int attempts=5;
 		 
+		 //Running the loop for guessing and showing the attempts 
 		 do{
 		     System.out.println("Attempts left "+attempts);
 		    int input=sc.nextInt();
