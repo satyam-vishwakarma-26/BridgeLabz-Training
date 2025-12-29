@@ -12,17 +12,17 @@ public class SchoolBusAttendance {
         };
 
         char attendance[] = new char[10];
-
         int totalPresent=0;
         int totalAbsent=0;
 
         int i=0;
+		//Loop for storing the status of the students 
         for (String s : Students) {
             System.out.println(s + ": is present or absent (P/A)");
             attendance[i] =sc.next().charAt(0); 
             i++;
         }
-
+		//computing the totals
         for (char status : attendance) {
             if (status=='P') { 
                 totalPresent++;
@@ -30,7 +30,7 @@ public class SchoolBusAttendance {
                 totalAbsent++;
             }
         }
-
+		//Printing the results 
         for (int j=0; j<10; j++) {
             System.out.println(Students[j] + " is " + attendance[j]);
         }
