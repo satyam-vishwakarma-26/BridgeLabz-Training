@@ -14,7 +14,7 @@ public class BankAccount {
 	       this.accountHolderName = accountHolderName;
 	       this.accountNumber = accountNumber;  // Final variable assigned only once
 	       this.balance = balance;
-	       totalAccounts++;   // Increment total accounts with each new account
+	       totalAccounts+=1;   // Increment total accounts with each new account
 	   }
 	   // Static method to get the total number of accounts
 	   public static void getTotalAccounts() {
