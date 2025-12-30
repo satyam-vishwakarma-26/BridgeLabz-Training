@@ -1,8 +1,6 @@
 package com.Objectmodeling.levelone;
 
-import java.util.ArrayList;
-
-//Book class (independent entity)
+//Book class independent entity
 class Book{
   String title;
   String author;

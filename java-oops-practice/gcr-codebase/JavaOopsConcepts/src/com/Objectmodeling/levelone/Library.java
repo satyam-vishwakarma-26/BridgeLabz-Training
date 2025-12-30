@@ -2,7 +2,7 @@ package com.Objectmodeling.levelone;
 
 import java.util.ArrayList;
 
-//Library class (aggregates Book objects)
+//Library class aggregates Book objects
 class Library{
 String libraryName;
 ArrayList<Book> books=new ArrayList<>();
