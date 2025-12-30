@@ -2,8 +2,10 @@ package com.Objectmodeling.levelone;
 
 public class UniversityRelationship{
     public static void main(String[] args){
-
-        University uni=new University("ABC University");
+    	
+    	
+    	//Creating the object and constructor called 
+        University uni=new University("RGPV University");
 
         Department d1=new Department("Computer Science");
         Department d2=new Department("Mechanical");

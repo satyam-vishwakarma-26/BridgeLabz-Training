@@ -7,6 +7,7 @@ class University{
     ArrayList<Department> departments=new ArrayList<>();
     ArrayList<Faculty> faculties=new ArrayList<>();
 
+    //Constructor
     public University(String universityName){
         this.universityName=universityName;
     }
@@ -19,6 +20,7 @@ class University{
         faculties.add(f);
     }
 
+    //Printing the details 
     public void showDetails(){
         System.out.println("University: "+universityName);
         System.out.println("Departments:");
