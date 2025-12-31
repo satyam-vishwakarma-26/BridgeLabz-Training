@@ -1,5 +1,17 @@
 package com.Inheritance.HierarchicalInheritance;
 
-public class Student {
+//Student subclass
+class Student extends Person{
+String grade;
 
+Student(String name,int age,String grade){
+    super(name,age);
+    this.grade=grade;
+}
+
+void displayRole(){
+    System.out.println("Role: Student");
+    displayDetails();
+    System.out.println("Grade: "+grade);
+}
 }
