@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 //InPatient class
 class InPatient extends Patient implements MedicalRecord{
-  private int daysAdmitted;
+  private int daysAdmitted ;
   private double dailyCharge;
   private ArrayList<String> records=new ArrayList<>();
 
