@@ -77,12 +77,12 @@ Solved **11 Stack, Queue, and HashMap–based problems**:
 5. Circular Tour (Petrol Pump Problem)  
 
 *Hash Map & Hashing Problems*
+
 6. Find All Subarrays with Zero Sum  
 7. Check for a Pair with Given Sum  
 8. Longest Consecutive Sequence  
 9. Custom Hash Map Implementation  
 10. Two Sum Problem  
-11. Pair with Given Sum (User Input Based)  
 
 *🔗 Code link:*  
 [Week 03 – Stack, Queue & Hashing Programs](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
