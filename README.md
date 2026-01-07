@@ -132,6 +132,69 @@ Solved **7 sorting-based problems** using different algorithms:
 ---
 
 *🔗 Code link:*  
-[Week 03 – Sorting Algorithms](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)
+[Day 03 – Sorting Algorithms](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)
 
 ---
+
+### 🗓 Day 4: Strings, File Handling & Searching  
+*Date: 6 January 2026*  
+
+#### 🔹 Topics Covered  
+
+*String Handling*
+- StringBuilder for efficient mutable strings  
+- StringBuffer for thread-safe string operations  
+- Performance comparison between StringBuilder and StringBuffer  
+
+*File Handling*
+- FileReader for reading text files  
+- InputStreamReader for byte-to-character conversion  
+- BufferedReader for optimized file and input reading  
+- Proper resource handling using best practices  
+
+*Searching Techniques*
+- Linear Search for unsorted or small datasets  
+- Binary Search for sorted data  
+- Advanced binary search applications  
+
+*Best Practices*
+- Used mutable strings for performance-critical code  
+- Handled IO exceptions and encoding issues  
+- Avoided overflow in binary search mid calculation  
+- Ensured safe input/output operations  
+
+### ✅ Practice Summary  
+
+Solved **20+ problems** covering strings, file handling, and searching techniques:
+
+#### 🔸 StringBuilder & StringBuffer
+1. Reverse a String using StringBuilder  
+2. Remove Duplicates using StringBuilder  
+3. Concatenate Strings using StringBuffer  
+4. Performance Comparison: StringBuilder vs StringBuffer  
+
+#### 🔸 FileReader & InputStreamReader
+5. Read File Line by Line using FileReader  
+6. Count Word Occurrence in a File  
+7. Convert Byte Stream to Character Stream  
+8. Read User Input and Write to File  
+
+#### 🔸 Linear Search Problems
+9. Find First Negative Number  
+10. Search Word in Sentences  
+
+#### 🔸 Binary Search Problems
+11. Find Rotation Point in Rotated Sorted Array  
+12. Find Peak Element  
+13. Search Target in 2D Sorted Matrix  
+14. Find First and Last Occurrence in Sorted Array  
+
+#### 🔸 Combined Challenge
+15. First Missing Positive Integer (Linear Search)  
+16. Target Index using Binary Search  
+
+---
+
+*🔗 Code link:*  
+[Week 04 – Strings, File Handling & Searching](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
+
