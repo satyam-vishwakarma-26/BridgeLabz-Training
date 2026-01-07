@@ -33,7 +33,7 @@ Solved **9 Linked List–based programs** covering Singly, Doubly, and Circular 
 10. **Doubly Linked List – Undo/Redo Functionality for Text Editor**
 
 *🔗 Code link:*  
-[Week 03 – Linked List Programs](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
+[Day 01 – Linked List Programs](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
 
 ---
 
@@ -85,7 +85,7 @@ Solved **11 Stack, Queue, and HashMap–based problems**:
 10. Two Sum Problem  
 
 *🔗 Code link:*  
-[Week 03 – Stack, Queue & Hashing Programs](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
+[Day 02 – Stack, Queue & Hashing Programs](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
 
 ---
 
@@ -192,6 +192,43 @@ Solved **20+ problems** covering strings, file handling, and searching technique
 16. Target Index using Binary Search  
 
 *🔗 Code link:*  
-[Week 04 – Strings, File Handling & Searching](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
+[Day 04 – Strings, File Handling & Searching](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
+
+---
+
+### 🗓 Day 5: Runtime Analysis & Big O Notation  
+*Date: 7 January 2026*  
+
+#### 🔹 Topics Covered  
+
+*Algorithm Analysis*
+- Time and space complexity fundamentals  
+- Big O Notation for performance evaluation  
+- Best-case, average-case, and worst-case analysis  
+
+*Optimization Techniques*
+- Choosing appropriate data structures  
+- Reducing nested loops and redundant computations  
+- Using memoization and dynamic programming  
+- Avoiding inefficient recursion  
+- Optimizing memory usage  
+
+*Performance Benchmarking*
+- Execution time measurement using `System.nanoTime()`  
+- Comparative analysis of algorithms and data structures  
+
+### ✅ Practice Summary  
+
+Solved **6 performance analysis problems** focused on runtime optimization:
+
+1. **Linear Search vs Binary Search Performance Comparison**  
+2. **Sorting Large Data (Bubble vs Merge vs Quick Sort)**  
+3. **String vs StringBuilder vs StringBuffer Performance**  
+4. **FileReader vs InputStreamReader Efficiency**  
+5. **Recursive vs Iterative Fibonacci Comparison**  
+6. **Searching Performance: Array vs HashSet vs TreeSet**  
+
+*🔗 Code link:*  
+[Day 05 – Runtime Analysis & Optimization](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/complexityanalysis)
 
 ---
