@@ -145,10 +145,10 @@ On the sixth day of training, the focus was on understanding string handling mec
 
 ---
 
-### 🗓 Day 7 – Built-in Functions & Extra Work  
+### Built-in Functions & Extra Work  
 **Date:** 23 December 2025
 
-On the seventh day of training, the focus was on utilizing Java built-in functions and strengthening problem-solving skills through additional hands-on practice.
+On the this day of training, the focus was on utilizing Java built-in functions and strengthening problem-solving skills through additional hands-on practice.
 
 #### Activities Completed
 - Practiced the use of commonly used Java built-in functions.
@@ -161,29 +161,7 @@ On the seventh day of training, the focus was on utilizing Java built-in functio
 - Committed and pushed all changes to the remote repository using standard Git workflows.
 
 🔗 **Code Reference:**  
-👉 [Day 7 – Built-in Functions](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extra)
-
----
-
-### 🗓 Day 8 – LeetCode Practice & Scenario-Based Problem Solving  
-**Date:** 23 December 2025
-
-On the eighth day of training, the focus was on enhancing problem-solving skills through LeetCode challenges and implementing real-world scenario-based applications in Java.
-
-#### Activities Completed
-- Solved LeetCode problems to strengthen algorithmic thinking:
-  - **Arrays**
-    - Two Sum
-    - Remove Duplicates
-  - **Strings**
-    - Longest Common Prefix
-- Implemented scenario-based Java applications to apply concepts in real-world use cases:
-  - BMI Fitness Tracker
-  - Coffee Counter
-- Improved logical reasoning and code structuring through practical problem-solving.
-
-🔗 **Code Reference:**  
-👉 [Day 8 – LeetCode & Scenario-Based Programs](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+👉 [ Built-in Functions](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extra)
 
 ---
 
@@ -448,8 +426,17 @@ Solved **9 Linked List–based programs** covering Singly, Doubly, and Circular 
 9. **Circular Linked List – Round Robin Scheduling Algorithm**  
 10. **Doubly Linked List – Undo/Redo Functionality for Text Editor**
 
+### 🧠 Scenario-Based Implementations on oopm 
+
+1. **Hospital Patient Management System**  
+2. **Vehicle Rental Application**
+3. **University Course Enrollment System** 
+4. **E-Wallet Application**
+5. **Smart Home Automation System**
+
+
 *🔗 Code link:*  
-[Week 03 – Linked List Programs](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
+[Day 01 – Linked List Programs](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
 
 ---
 
@@ -500,8 +487,13 @@ Solved **11 Stack, Queue, and HashMap–based problems**:
 9. Custom Hash Map Implementation  
 10. Two Sum Problem  
 
+### 🧠 Scenario-Based Implementations on oopm 
+
+6. **CabbyGo – A Ride-Hailing App in the Making**  
+7. **MyBank – Managing Customer Accounts**
+
 *🔗 Code link:*  
-[Week 03 – Stack, Queue & Hashing Programs](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
+[Day 02 – Stack, Queue & Hashing Programs](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
 
 ---
 
@@ -543,8 +535,13 @@ Solved **7 sorting-based problems** using different algorithms:
 6. **Heap Sort – Sort Job Applicants by Salary**  
 7. **Counting Sort – Sort Student Ages**  
 
+### 🧠 Scenario-Based Implementations on oopm 
+
+8. **CampusConnect – College Information System**  
+9. **SwiftCart – The Grocery Shopping App**
+
 *🔗 Code link:*  
-[Week 03 – Sorting Algorithms](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)
+[Day 03 – Sorting Algorithms](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)
 
 ---
 
@@ -603,9 +600,59 @@ Solved **20+ problems** covering strings, file handling, and searching technique
 
 #### 🔸 Combined Challenge
 15. First Missing Positive Integer (Linear Search)  
-16. Target Index using Binary Search  
+16. Target Index using Binary Search
+
+### 🧠 Scenario-Based Implementations on oopm 
+
+10. **EduMentor – Personalized Learning Platform**  
+11. **FitTrack – Your Personal Fitness Tracker**
+12. **PetPal – Virtual Pet Care App** 
+13. **EventEase – Event Management Platform** 
 
 *🔗 Code link:*  
-[Week 04 – Strings, File Handling & Searching](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
+[Day 04 – Strings, File Handling & Searching](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
+
+---
+
+### 🗓 Day 5: Runtime Analysis & Big O Notation  
+*Date: 7 January 2026*  
+
+#### 🔹 Topics Covered  
+
+*Algorithm Analysis*
+- Time and space complexity fundamentals  
+- Big O Notation for performance evaluation  
+- Best-case, average-case, and worst-case analysis  
+
+*Optimization Techniques*
+- Choosing appropriate data structures  
+- Reducing nested loops and redundant computations  
+- Using memoization and dynamic programming  
+- Avoiding inefficient recursion  
+- Optimizing memory usage  
+
+*Performance Benchmarking*
+- Execution time measurement using `System.nanoTime()`  
+- Comparative analysis of algorithms and data structures  
+
+### ✅ Practice Summary  
+
+Solved **6 performance analysis problems** focused on runtime optimization:
+
+1. **Linear Search vs Binary Search Performance Comparison**  
+2. **Sorting Large Data (Bubble vs Merge vs Quick Sort)**  
+3. **String vs StringBuilder vs StringBuffer Performance**  
+4. **FileReader vs InputStreamReader Efficiency**  
+5. **Recursive vs Iterative Fibonacci Comparison**  
+6. **Searching Performance: Array vs HashSet vs TreeSet**  
+
+### 🧠 Scenario-Based Implementations on oopm 
+
+14. **BookBazaar – Digital Bookstore System**  
+15. **LoanBuddy – Loan Approval Automation**  
+16. **ParkEase – Smart Parking Management System**  
+
+*🔗 Code link:*  
+[Day 05 – Runtime Analysis & Optimization](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/complexityanalysis)
 
 ---
