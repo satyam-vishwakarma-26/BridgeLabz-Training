@@ -129,8 +129,6 @@ Solved **7 sorting-based problems** using different algorithms:
 6. **Heap Sort – Sort Job Applicants by Salary**  
 7. **Counting Sort – Sort Student Ages**  
 
----
-
 *🔗 Code link:*  
 [Day 03 – Sorting Algorithms](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)
 
@@ -193,8 +191,7 @@ Solved **20+ problems** covering strings, file handling, and searching technique
 15. First Missing Positive Integer (Linear Search)  
 16. Target Index using Binary Search  
 
----
-
 *🔗 Code link:*  
 [Week 04 – Strings, File Handling & Searching](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
 
+---
