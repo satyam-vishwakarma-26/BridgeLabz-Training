@@ -656,3 +656,18 @@ Solved **6 performance analysis problems** focused on runtime optimization:
 [Day 05 – Runtime Analysis & Optimization](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/complexityanalysis)
 
 ---
+
+### 🧠 Solved Scenario-Based Questions 
+#### *Date: 8 January 2026*
+
+17. **MediStore – Pharmacy Inventory & Sales System**
+
+   A pharmacy chain needs an app to manage drug inventory, sales, and expiry tracking.
+   Requirements.
+
+19. **TourMate – Travel Itinerary Planner**
+
+   TourMate helps travelers plan and book trips by organizing activities, transportation, and
+   stays.
+   
+---
