@@ -662,12 +662,33 @@ Solved **6 performance analysis problems** focused on runtime optimization:
 
 17. **MediStore – Pharmacy Inventory & Sales System**
 
-   A pharmacy chain needs an app to manage drug inventory, sales, and expiry tracking.
-   Requirements.
+  - A pharmacy chain needs an app to manage drug inventory, sales, and expiry tracking.
 
-19. **TourMate – Travel Itinerary Planner**
+18. **TourMate – Travel Itinerary Planner**
 
-   TourMate helps travelers plan and book trips by organizing activities, transportation, and
-   stays.
+  - TourMate helps travelers plan and book trips by organizing activities, transportation, and stays.
+
+🔗 **Code Reference:**  
+👉 [Scenario-Based Questions](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src/com)
    
+---
+
+###  🧠 Solved Scenario-Based Questions 
+#### 🗓 *Date: 9 January 2026*
+
+19. **Artify – Digital Art Marketplace**
+
+  - Artists sell digital art via Artify. Buyers can purchase, license, or subscribe to collections.
+
+20. **FoodLoop – Restaurant Ordering System**
+
+  - FoodLoop is an app where users place food orders from local restaurants.
+
+21. **SkillForge – Online Learning Portal**
+
+  - A startup builds SkillForge, where instructors upload courses and students enroll, complete, and get certified.
+
+🔗 **Code Reference:**  
+👉 [Scenario-Based Questions](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src/com)
+ 
 ---
