@@ -657,8 +657,8 @@ Solved **6 performance analysis problems** focused on runtime optimization:
 
 ---
 
-### 🧠 Solved Scenario-Based Questions 
-#### *Date: 8 January 2026*
+###  🧠 Solved Scenario-Based Questions 
+#### 🗓 *Date: 8 January 2026*
 
 17. **MediStore – Pharmacy Inventory & Sales System**
 
