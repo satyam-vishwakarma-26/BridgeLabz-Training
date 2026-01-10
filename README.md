@@ -692,3 +692,23 @@ Solved **6 performance analysis problems** focused on runtime optimization:
 👉 [Scenario-Based Questions](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src/com)
  
 ---
+
+###  🧠 Solved Scenario-Based Questions on DSA
+#### 🗓 *Date: 10 January 2026*
+
+1. ** BookShelf – Library Organizer (HashMap + Linked List)**
+
+  - In a library system, books are arranged based on genre and author. A HashMap maps genre → list of books (LinkedList). Each list is dynamically updated when books are borrowed or returned.
+
+2. **BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)**
+
+  - Neha is working on a custom browser. Each open tab maintains its browsing history with "Back" and "Forward" operations. She uses a Doubly Linked List for history and a Stack to hold closed tabs for reopening.
+
+3. **AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)**
+
+  - In a hospital, there are multiple buildings connected in a circular fashion: Emergency → Radiology → Surgery → ICU → Emergency. When an ambulance is bringing in patients, it follows a Circular Linked List to decide the nearest available unit for emergency treatment.
+
+🔗 **Code Reference:**  
+👉 [Scenario-Based Questions DSA](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBased/src/com)
+ 
+---
