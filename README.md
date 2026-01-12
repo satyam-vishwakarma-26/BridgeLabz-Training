@@ -673,7 +673,7 @@ Solved **6 performance analysis problems** focused on runtime optimization:
    
 ---
 
-###  🧠 Solved Scenario-Based Questions 
+###  🧠 Solved Scenario-Based Questions on oop
 #### 🗓 *Date: 9 January 2026*
 
 19. **Artify – Digital Art Marketplace**
@@ -707,6 +707,26 @@ Solved **6 performance analysis problems** focused on runtime optimization:
 3. **AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)**
 
   - In a hospital, there are multiple buildings connected in a circular fashion: Emergency → Radiology → Surgery → ICU → Emergency. When an ambulance is bringing in patients, it follows a Circular Linked List to decide the nearest available unit for emergency treatment.
+
+🔗 **Code Reference:**  
+👉 [Scenario-Based Questions DSA](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBased/src/com)
+ 
+---
+
+###  🧠 Solved Scenario-Based Questions on DSA
+#### 🗓 *Date: 12 January 2026*
+
+4. **CallCenter – Customer Queue Manager (Queue + HashMap)**
+
+  -  In a telecom call center, customers are queued based on the time of call. Priority customers have a special queue. A HashMap keeps track of the number of times each user has called this month.
+
+5. **TrainCompanion – Compartment Navigation System (Doubly LinkedList)**
+
+  -  In a long-distance train app, passengers can walk to the next or previous compartment, or search for services (like pantry, WiFi). Each compartment is a node in a Doubly Linked List.
+
+6. **TextEditor – Undo/Redo Functionality (Stack)**
+
+  - Shanaya is building a basic text editor app. Every action (insert, delete, format) is pushed onto a Stack. An Undo action pops from the stack, and Redo uses another stack to reapply actions.
 
 🔗 **Code Reference:**  
 👉 [Scenario-Based Questions DSA](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBased/src/com)
