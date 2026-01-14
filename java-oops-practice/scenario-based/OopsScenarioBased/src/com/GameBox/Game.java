@@ -17,6 +17,6 @@ public abstract class Game implements IDownloadable{
     }
     // Download game
     public void download(){
-        System.out.println(title+" downloaded");
+         System.out.println(title+" downloaded");
     }
 }
