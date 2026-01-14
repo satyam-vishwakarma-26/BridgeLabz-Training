@@ -1,234 +1,215 @@
-## 📅 Week 03 – Data Structures & Algorithms  
+# 📅 Week 2: Object-Oriented Programming (OOPs)
+### 🗓 Day 1 – Objects and Classes  
+**Date:** 26 December 2025
 
-### 🗓 Day 1: Linked List (Singly, Doubly & Circular)  
-*Date: 2 January 2026*  
+On this day, I learned the fundamentals of **Object-Oriented Programming (OOPs)** in Java.
+I implemented **10 programs** (5 Level 1 + 5 Level 2) using real-world examples.
 
-#### 🔹 Topics Covered  
+### 📘 Concepts Learned
+- Classes and Objects
+- Constructors
+- Methods
+- Encapsulation
+- Real-world problem modeling
+- Memory allocation basics
 
-*Singly Linked List*
-- Understood node structure with data and next reference  
+### 🟢 Level 1 Practice Programs
+1. Employee Details Program  
+2. Area & Circumference of Circle  
+3. Book Details Management  
+4. Inventory Tracking System  
+5. Mobile Phone Details Program  
 
-*Doubly Linked List*
+### 🔵 Level 2 Practice Programs
+1. Student Report & Grade Calculator  
+2. ATM / Bank Account Simulation  
+3. Palindrome String Checker  
+4. Movie Ticket Booking System  
+5. Shopping Cart Simulation  
 
-*Circular Linked List*
-- Implemented circular traversal using `tail.next = head`  
 
-*Algorithmic Thinking*
-- Applied traversal-based logic  
-- Compared node values and maintained counters  
-- Designed efficient solutions using linked list properties  
-
-### ✅ Practice Summary  
-
-Solved **9 Linked List–based programs** covering Singly, Doubly, and Circular Linked Lists:
-
-1. **Singly Linked List – Student Record Management System**  
-2. **Singly Linked List – Inventory Management System**  
-3. **Singly Linked List – Social Media Friend Connections**
-5. **Doubly Linked List – Movie Management System**  
-6. **Doubly Linked List – Library Management System**  
-7. **Circular Linked List – Task Scheduler**  
-8. **Circular Linked List – Online Ticket Reservation System**  
-9. **Circular Linked List – Round Robin Scheduling Algorithm**  
-10. **Doubly Linked List – Undo/Redo Functionality for Text Editor**
-
-*🔗 Code link:*  
-[Day 01 – Linked List Programs](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
+🔗 **Code Reference:**  
+👉 [Day 8 – Class and Object](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
 ---
 
-### 🗓 Day 2: Stack, Queue & Hashing  
-*Date: 3 January 2026*  
+### 🗓 Day 02 – Constructors, Access Modifiers & OOPS Practice  
+**Date:** 27 December 2025
 
-#### 🔹 Topics Covered  
+On the second day of training, the focus was on understanding best practices in constructors, access modifiers, and applying OOPS concepts through hands-on practice programs.
 
-*Stacks*
-- LIFO behavior and use cases  
-- Recursive and nested problem solving  
-- Stack underflow and overflow handling  
-- Efficient implementation using Java Collections  
+#### Practice Programs Implemented
 
-*Queues*
-- FIFO behavior and applications  
-- Simple Queue, Deque, and Priority Queue  
-- Circular queue concepts  
-- Safe enqueue and dequeue operations  
+**Level 1 Constructor Practice**
+- Book class with default and parameterized constructors.
+- Circle class using constructor chaining.
+- Person class with a copy constructor.
+- Hotel Booking System using default, parameterized, and copy constructors.
+- Library Book System with book borrowing functionality.
+- Car Rental System with rental cost calculation.
 
-*Hash Maps & Hashing*
-- Hashing fundamentals and hash functions  
-- Fast lookup using HashMap  
-- Collision handling with separate chaining  
-- Custom HashMap implementation  
+**Instance vs Class Variables and Methods**
+- Product Inventory Management system.
+- Online Course Management system.
+- Vehicle Registration system.
 
-*Best Practices*
-- Avoided infinite recursion  
-- Validated empty stack and queue operations  
-- Used auxiliary data structures for optimization  
+**Access Modifiers Practice**
+- University Management System demonstrating public, protected, and private access.
+- Book Library System with EBook subclass.
+- Bank Account Management using SavingsAccount subclass.
+- Employee Records with Manager subclass.
 
-### ✅ Practice Summary  
+All programs were implemented using standard Java coding conventions and organized using proper package structure.
 
-Solved **11 Stack, Queue, and HashMap–based problems**:
-
-*Stack & Queue Problems*
-1. Queue Using Two Stacks  
-2. Sort a Stack Using Recursion  
-3. Stock Span Problem  
-4. Sliding Window Maximum  
-5. Circular Tour (Petrol Pump Problem)  
-
-*Hash Map & Hashing Problems*
-
-6. Find All Subarrays with Zero Sum  
-7. Check for a Pair with Given Sum  
-8. Longest Consecutive Sequence  
-9. Custom Hash Map Implementation  
-10. Two Sum Problem  
-
-*🔗 Code link:*  
-[Day 02 – Stack, Queue & Hashing Programs](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
+🔗 **Code Reference:**  
+👉 [Day 2 – Constructors & Access Modifiers](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)
 
 ---
 
-### 🗓 Day 3: Sorting Algorithms  
-*Date: 5 January 2026*  
+### 🗓 Day 3 – Static, Final & Object Behavior  
+**Date:** 29 December 2025
 
-#### 🔹 Topics Covered  
+On the third day of training, the focus was on understanding important Java keywords and operators that control memory, immutability, and object behavior. Along with theory, multiple real-world practice programs and scenario-based problems were implemented to strengthen practical understanding.
 
-*Sorting Fundamentals*
-- Understood comparison-based and non-comparison-based sorting  
-- Learned time and space complexity trade-offs  
-- Applied sorting logic to real-world scenarios  
+#### Activities Completed
+- Learned about core Java keywords and concepts:
+  - `static` keyword (class-level variables and methods)
+  - `final` keyword (constants, method prevention, and immutability)
+  - `instanceof` operator (runtime object type checking)
 
-*Comparison-Based Sorting*
-- Bubble Sort  
-- Insertion Sort  
-- Selection Sort  
-- Merge Sort  
-- Quick Sort  
-- Heap Sort  
+- Developed practice programs using real-world entities:
+  - `BankAccount`
+  - `Book`
+  - `Library`
+  - `Company`
+  - `Patient`
+  - `Product`
+  - `Student`
+  - `Vehicle`
 
-*Non-Comparison Sorting*
-- Counting Sort  
+- Applied object-oriented principles such as encapsulation, class design, and method usage.
+- Practiced writing clean, structured Java programs with proper naming conventions.
+- Committed and pushed all completed programs to the remote repository using standard Git practices.
 
-*Best Practices*
-- Chose sorting algorithms based on data size and constraints  
-- Applied stable vs unstable sorting concepts  
-- Optimized performance using divide-and-conquer strategies  
-
----
-
-### ✅ Practice Summary  
-
-Solved **7 sorting-based problems** using different algorithms:
-
-1. **Bubble Sort – Sort Student Marks**  
-2. **Insertion Sort – Sort Employee IDs**  
-3. **Merge Sort – Sort Book Prices**  
-4. **Quick Sort – Sort Product Prices**  
-5. **Selection Sort – Sort Exam Scores**  
-6. **Heap Sort – Sort Job Applicants by Salary**  
-7. **Counting Sort – Sort Student Ages**  
-
-*🔗 Code link:*  
-[Day 03 – Sorting Algorithms](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)
+🔗 **Code Reference:**  
+👉 [Day 3 – Static & Final Concepts](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training)
 
 ---
 
-### 🗓 Day 4: Strings, File Handling & Searching  
-*Date: 6 January 2026*  
+### 🗓 Day 4 – Object Oriented Design & Relationships  
+**Date:** 30 December 2025
 
-#### 🔹 Topics Covered  
+On the fourth day of training, the focus was on understanding **Object-Oriented Design principles** and modeling real-world systems using **UML diagrams** and **object relationships**. Practical problems were solved to strengthen conceptual clarity and design thinking.
 
-*String Handling*
-- StringBuilder for efficient mutable strings  
-- StringBuffer for thread-safe string operations  
-- Performance comparison between StringBuilder and StringBuffer  
+#### Activities Completed
+- Learned core **Object Oriented Design Principles**:
+  - Class Diagram
+  - Object Diagram
+  - Sequence Diagram
 
-*File Handling*
-- FileReader for reading text files  
-- InputStreamReader for byte-to-character conversion  
-- BufferedReader for optimized file and input reading  
-- Proper resource handling using best practices  
+- Understood and applied object relationships:
+  - Association
+  - Aggregation
+  - Composition
 
-*Searching Techniques*
-- Linear Search for unsorted or small datasets  
-- Binary Search for sorted data  
-- Advanced binary search applications  
+- Solved assisted object-modeling problems:
+  - **Library and Books** (Aggregation)
+  - **Bank and Account Holders** (Association)
+  - **Company and Departments** (Composition)
 
-*Best Practices*
-- Used mutable strings for performance-critical code  
-- Handled IO exceptions and encoding issues  
-- Avoided overflow in binary search mid calculation  
-- Ensured safe input/output operations  
+- Solved self-practice design problems:
+  - **School and Students with Courses** (Association and Aggregation)
+  - **University with Faculties and Departments** (Composition and Aggregation)
+  - **Hospital, Doctors, and Patients** (Association and Communication)
+  - **E-commerce Platform with Orders, Customers, and Products**
+  - **University Management System**
 
-### ✅ Practice Summary  
+- Focused on identifying correct relationships between classes based on real-world scenarios.
+- Practiced communication between objects using method interactions.
+- Improved understanding of system design before implementation.
+- Followed clean class structure and naming conventions during problem-solving.
 
-Solved **20+ problems** covering strings, file handling, and searching techniques:
-
-#### 🔸 StringBuilder & StringBuffer
-1. Reverse a String using StringBuilder  
-2. Remove Duplicates using StringBuilder  
-3. Concatenate Strings using StringBuffer  
-4. Performance Comparison: StringBuilder vs StringBuffer  
-
-#### 🔸 FileReader & InputStreamReader
-5. Read File Line by Line using FileReader  
-6. Count Word Occurrence in a File  
-7. Convert Byte Stream to Character Stream  
-8. Read User Input and Write to File  
-
-#### 🔸 Linear Search Problems
-9. Find First Negative Number  
-10. Search Word in Sentences  
-
-#### 🔸 Binary Search Problems
-11. Find Rotation Point in Rotated Sorted Array  
-12. Find Peak Element  
-13. Search Target in 2D Sorted Matrix  
-14. Find First and Last Occurrence in Sorted Array  
-
-#### 🔸 Combined Challenge
-15. First Missing Positive Integer (Linear Search)  
-16. Target Index using Binary Search  
-
-*🔗 Code link:*  
-[Day 04 – Strings, File Handling & Searching](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
+🔗 **Code Reference:**  
+👉 [Day 4 – Object Oriented Design & Relationships](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/Objectmodeling/levelone)
 
 ---
 
-### 🗓 Day 5: Runtime Analysis & Big O Notation  
-*Date: 7 January 2026*  
+### 🗓 Day 5 – Inheritance & Polymorphism in Java  
+**Date:** 31 December 2025
 
-#### 🔹 Topics Covered  
+On the fifth day of training, the focus was on understanding **Inheritance in Java**, its different types, and how it supports **code reusability, extensibility, and polymorphism**. Multiple assisted and sample problems were solved to strengthen conceptual and practical understanding.
 
-*Algorithm Analysis*
-- Time and space complexity fundamentals  
-- Big O Notation for performance evaluation  
-- Best-case, average-case, and worst-case analysis  
+#### Activities Completed
+- Learned core inheritance concepts:
+  - Inheritance in Java
+  - Single Level Inheritance
+  - Multilevel Inheritance
+  - Hierarchical Inheritance
+  - Key Features of Inheritance
+  - Method Overriding
+  - Constructor Inheritance in Java
+  - Polymorphism and Inheritance
+  - Access Modifiers and Inheritance
 
-*Optimization Techniques*
-- Choosing appropriate data structures  
-- Reducing nested loops and redundant computations  
-- Using memoization and dynamic programming  
-- Avoiding inefficient recursion  
-- Optimizing memory usage  
+- Solved assisted inheritance-based problems:
+  - **Animal Hierarchy** (Animal, Dog, Cat, Bird) – method overriding and polymorphism
+  - **Employee Management System** (Employee, Manager, Developer, Intern)
+  - **Vehicle and Transport System** (Vehicle, Car, Truck, Motorcycle) with runtime polymorphism
 
-*Performance Benchmarking*
-- Execution time measurement using `System.nanoTime()`  
-- Comparative analysis of algorithms and data structures  
+- Practiced **Single Inheritance** through:
+  - **Library Management with Books and Authors**
+  - **Smart Home Devices** (Device and Thermostat)
 
-### ✅ Practice Summary  
+- Practiced **Multilevel Inheritance** using:
+  - **Online Retail Order Management** (Order → ShippedOrder → DeliveredOrder)
+  - **Educational Course Hierarchy** (Course → OnlineCourse → PaidOnlineCourse)
 
-Solved **6 performance analysis problems** focused on runtime optimization:
+- Practiced **Hierarchical Inheritance** using:
+  - **Bank Account Types** (SavingsAccount, CheckingAccount, FixedDepositAccount)
+  - **School System with Different Roles** (Teacher, Student, Staff)
 
-1. **Linear Search vs Binary Search Performance Comparison**  
-2. **Sorting Large Data (Bubble vs Merge vs Quick Sort)**  
-3. **String vs StringBuilder vs StringBuffer Performance**  
-4. **FileReader vs InputStreamReader Efficiency**  
-5. **Recursive vs Iterative Fibonacci Comparison**  
-6. **Searching Performance: Array vs HashSet vs TreeSet**  
+- Implemented **Hybrid Inheritance (using Interfaces)**:
+  - **Restaurant Management System** using Person, Chef, Waiter, and Worker interface
+  - **Vehicle Management System** using Vehicle, ElectricVehicle, PetrolVehicle, and Refuelable interface
 
-*🔗 Code link:*  
-[Day 05 – Runtime Analysis & Optimization](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/complexityanalysis)
+- Applied method overriding to achieve runtime polymorphism.
+- Used access modifiers correctly across inheritance hierarchies.
+- Designed clean class hierarchies following real-world modeling principles.
+- Organized and structured programs using proper Java packages and naming conventions.
+
+🔗 **Code Reference:**  
+👉 [Day 5 – Inheritance & Polymorphism](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/Inheritance)
 
 ---
+
+### 📅 Day 6: OOPS Principles – Encapsulation, Polymorphism, Interfaces & Abstract Classes  
+*Date: 1 January 2026*  
+
+#### 🔹 Topics Covered
+
+*Encapsulation*
+- Used private access modifiers for class fields  
+- Implemented public getters and setters with validation  
+- Created immutable classes using final fields  
+
+*Polymorphism*
+- Programmed using interfaces instead of implementations  
+- Applied method overriding correctly  
+- Avoided explicit casting and relied on runtime polymorphism  
+
+*Interfaces*
+- Defined contracts for common behaviors  
+- Combined multiple interfaces for modular design  
+- Preferred composition over inheritance  
+
+*Abstract Classes*
+- Shared common state and behavior  
+- Used abstract classes with interfaces  
+- Avoided deep inheritance hierarchies  
+
+### ✅ Practice Summary
+- Solved multiple Java programs based on OOPS concepts  
+- Followed Java naming conventions and clean coding practices  
+- Focused on readability, maintainability, and design principles
+
+*🔗 Code link:* [Encapsulation, Polymorphism, Interfaces & Abstract Classes ](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
