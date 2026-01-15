@@ -213,3 +213,34 @@ On the fifth day of training, the focus was on understanding **Inheritance in Ja
 - Focused on readability, maintainability, and design principles
 
 *🔗 Code link:* [Encapsulation, Polymorphism, Interfaces & Abstract Classes ](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+
+---
+
+###  🧠 Solved Scenario-Based OOPS 
+#### 🗓 *Date: 13 January 2026*
+
+#### Java OOP Scenario
+
+22. **HomeNest – Smart Home Device Manager**
+
+  -  A tech company builds HomeNest, a system to control smart lights, ACs, locks, and cameras.
+
+23. **BudgetWise – Personal Finance Tracker**
+
+  -  BudgetWise helps users plan monthly budgets and track income/expenses across categories.
+    
+24. **GameBox – Mobile Game Distribution Platform**
+
+  - GameBox offers mobile games for download and purchase with features like demos, reviews, and leaderboards.
+
+25. **PayXpress – Utility Bill Payment System**
+  - PayXpress enables users to pay utility bills (electricity, water, internet) with tracking and reminders.
+
+. **Bird Sanctuary**
+
+- Design and implement a Bird Sanctuary system to manage different types of birds, utilizing Inheritance and Polymorphism.
+
+🔗 **Code Reference:**  
+👉 [Scenario-Based Questions](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src/com)
+
+ ---
