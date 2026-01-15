@@ -732,3 +732,51 @@ Solved **6 performance analysis problems** focused on runtime optimization:
 👉 [Scenario-Based Questions DSA](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBased/src/com)
  
 ---
+
+###  🧠 Solved Scenario-Based Questions on DSA and OOPS 
+#### 🗓 *Date: 13 January 2026*
+
+#### Java OOP Scenario
+
+22. **HomeNest – Smart Home Device Manager**
+
+  -  A tech company builds HomeNest, a system to control smart lights, ACs, locks, and cameras.
+
+23. **BudgetWise – Personal Finance Tracker**
+
+  -  BudgetWise helps users plan monthly budgets and track income/expenses across categories.
+    
+24. **GameBox – Mobile Game Distribution Platform**
+
+  - GameBox offers mobile games for download and purchase with features like demos, reviews, and leaderboards.
+
+25. **PayXpress – Utility Bill Payment System**
+  - PayXpress enables users to pay utility bills (electricity, water, internet) with tracking and reminders.
+
+. **Bird Sanctuary**
+
+- Design and implement a Bird Sanctuary system to manage different types of birds, utilizing Inheritance and Polymorphism.
+
+🔗 **Code Reference:**  
+👉 [Scenario-Based Questions](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src/com)
+
+ ---
+ 
+#### Java DSA Scenario
+
+7. **TrafficManager – Roundabout Vehicle Flow (Circular Linked List +
+Queue)**
+
+8. **BookShelf – Library Organizer (HashMap + Linked List)**
+
+9. **SmartCheckout – Supermarket Billing Queue (Queue + HashMap)**
+
+10. **ParcelTracker – Delivery Chain Management (Singly Linked List)**
+
+11. **ExamProctor – Online Exam Review System (Stack + HashMap + Functions)**
+
+🔗 **Code Reference:**  
+👉 [Scenario-Based Questions DSA](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBased/src/com)
+ 
+---
+
