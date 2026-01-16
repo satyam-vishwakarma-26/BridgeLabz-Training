@@ -272,3 +272,23 @@ Solved **6 performance analysis problems** focused on runtime optimization:
 👉 [Scenario-Based Questions DSA](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBased/src/com)
  
 ---
+
+###  🧠 Solved Scenario-Based Questions on DSA 
+#### 🗓 *Date: 13 January 2026*
+
+
+7. **TrafficManager – Roundabout Vehicle Flow (Circular Linked List +
+Queue)**
+
+8. **BookShelf – Library Organizer (HashMap + Linked List)**
+
+9. **SmartCheckout – Supermarket Billing Queue (Queue + HashMap)**
+
+10. **ParcelTracker – Delivery Chain Management (Singly Linked List)**
+
+11. **ExamProctor – Online Exam Review System (Stack + HashMap + Functions)**
+
+🔗 **Code Reference:**  
+👉 [Scenario-Based Questions DSA](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBased/src/com)
+ 
+---

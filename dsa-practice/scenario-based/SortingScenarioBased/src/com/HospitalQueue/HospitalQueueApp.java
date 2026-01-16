@@ -10,6 +10,7 @@ public class HospitalQueueApp{
 
         // Menu driven ER system
         do{
+        	
             System.out.println("\n1.Add Patient\n2.Display Patients\n3.Sort by Criticality\n0.Exit");
             System.out.print("Enter choice: ");
             choice=sc.nextInt();
