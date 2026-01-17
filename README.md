@@ -793,3 +793,45 @@ Queue)**
 👉 [Scenario-Based Question on Sorting Algo](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/SortingScenarioBased/src/com)
 
  ---
+
+## 📅 Week 4: Java Collections, Streams
+
+### 🗓 Day 1 – Java Generics 
+**Date:** 16 january 2026
+
+#### 🔹 Topics Covered  
+
+*Java Generics*
+- Type safety using generics  
+- Generic classes and generic methods  
+- Bounded type parameters (`<T extends ...>`)  
+- Upper (`? extends T`) and lower (`? super T`) bounded wildcards  
+- Avoiding raw types  
+- Type erasure awareness  
+- Designing clean and reusable generic APIs
+  
+#### ✅ Practice Problems  
+
+Implemented **5 scenario-based systems** using Java Generics:
+
+1. **Smart Warehouse Management System**  
+2. **Dynamic Online Marketplace**  
+3. **Multi-Level University Course Management System**  
+4. **Personalized Meal Plan Generator**  
+5. **AI-Driven Resume Screening System**  
+
+*🔗 Code link:*  
+👉[Java Generics Practice](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/generics)
+
+###  🧠 Solved Scenario-Based Questions on Sorting Algorithams
+
+6. **RoboWarehouse – Shelf Loading Robot (Insertion Sort)**
+7. **CinemaHouse – Movie Time Sorting (Bubble Sort)**
+8. **CropMonitor – Sensor Data Ordering (Quick Sort)**
+4. **EventManager – Ticket Price Optimizer (Quick Sort)**
+5. **ExamCell – Student Rank Generator (Merge Sort)**
+
+🔗 **Code Reference:**  
+👉 [Scenario-Based Question on Sorting Algo](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/SortingScenarioBased/src/com)
+
+---
