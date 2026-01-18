@@ -892,3 +892,14 @@ Solved **Collections-based problems** across List, Set, Queue, and Map:
 👉 [Scenario-Based Question on Sorting Algo](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/SortingScenarioBased/src/com)
 
 ---
+
+###  🧠 Solved Scenario-Based OOPS 
+#### 🗓 *Date: 18 January 2026*
+
+1. **GeoMeasure Solutions**
+2. **Bag-n-Ball Organizer**
+
+🔗 **Code Reference:**  
+👉 [Scenario-Based Questions](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src/com)
+
+---
