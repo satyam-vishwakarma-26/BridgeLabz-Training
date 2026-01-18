@@ -306,3 +306,13 @@ Queue)**
 👉 [Scenario-Based Question on Sorting Algo](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/SortingScenarioBased/src/com)
 
  ---
+
+###  🧠 Solved Scenario-Based Questions on Sorting Algorithams
+#### 🗓 *Date: 17 January 2026*
+9. **ArtExpo – Sort Artists by Registration Time (Insertion Sort)**
+10. **FleetManager – Vehicle Maintenance Scheduler (Merge Sort)**
+1. **IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)**
+2. **SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)**
+
+🔗 **Code Reference:**  
+👉 [Scenario-Based Question on Sorting Algo](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/SortingScenarioBased/src/com)
