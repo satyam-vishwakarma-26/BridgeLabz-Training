@@ -828,8 +828,65 @@ Implemented **5 scenario-based systems** using Java Generics:
 6. **RoboWarehouse – Shelf Loading Robot (Insertion Sort)**
 7. **CinemaHouse – Movie Time Sorting (Bubble Sort)**
 8. **CropMonitor – Sensor Data Ordering (Quick Sort)**
-4. **EventManager – Ticket Price Optimizer (Quick Sort)**
-5. **ExamCell – Student Rank Generator (Merge Sort)**
+9. **ArtExpo – Sort Artists by Registration Time (Insertion Sort)**
+10. **FleetManager – Vehicle Maintenance Scheduler (Merge Sort)**
+
+🔗 **Code Reference:**  
+👉 [Scenario-Based Question on Sorting Algo](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/SortingScenarioBased/src/com)
+
+---
+
+### 🗓 Day 2: Java Collections Framework  
+*Date: 17 January 2026*  
+
+#### 🔹 Topics Covered  
+
+*List Interface*
+*Set Interface*
+*Queue Interface*
+*Map Interface*
+
+#### ✅ Practice Summary  
+
+Solved **Collections-based problems** across List, Set, Queue, and Map:
+
+#### 🔸 List Problems
+1. Reverse a List (ArrayList & LinkedList)  
+2. Find Frequency of Elements  
+3. Rotate Elements in a List  
+4. Remove Duplicates While Preserving Order  
+5. Find Nth Element from End  
+
+#### 🔸 Set Problems
+6. Check if Two Sets Are Equal  
+7. Union and Intersection of Sets  
+8. Symmetric Difference  
+9. Convert Set to Sorted List  
+10. Check Subset  
+
+#### 🔸 Queue Problems
+11. Reverse a Queue  
+12. Generate Binary Numbers  
+13. Hospital Triage System  
+14. Stack Using Queues  
+15. Circular Buffer Simulation  
+
+#### 🔸 Map Problems
+16. Word Frequency Counter  
+17. Invert a Map  
+18. Find Key with Highest Value  
+19. Merge Two Maps  
+20. Group Objects by Property  
+
+*🔗 Code link:*  
+👉 [Java Collections Practice](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/collections)
+
+###  🧠 Solved Scenario-Based Questions on Sorting Algorithams
+
+9. **ArtExpo – Sort Artists by Registration Time (Insertion Sort)**
+10. **FleetManager – Vehicle Maintenance Scheduler (Merge Sort)**
+1. **IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)**
+2. **SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)**
 
 🔗 **Code Reference:**  
 👉 [Scenario-Based Question on Sorting Algo](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/SortingScenarioBased/src/com)
