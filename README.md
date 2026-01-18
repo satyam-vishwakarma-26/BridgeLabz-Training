@@ -244,3 +244,14 @@ On the fifth day of training, the focus was on understanding **Inheritance in Ja
 👉 [Scenario-Based Questions](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src/com)
 
  ---
+
+###  🧠 Solved Scenario-Based OOPS 
+#### 🗓 *Date: 18 January 2026*
+
+1. **GeoMeasure Solutions**
+2. **Bag-n-Ball Organizer**
+
+🔗 **Code Reference:**  
+👉 [Scenario-Based Questions](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src/com)
+
+---
