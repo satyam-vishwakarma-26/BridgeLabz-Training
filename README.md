@@ -316,3 +316,14 @@ Queue)**
 
 🔗 **Code Reference:**  
 👉 [Scenario-Based Question on Sorting Algo](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/SortingScenarioBased/src/com)
+
+---
+
+###  🧠 Solved Scenario-Based Questions on Sorting Algorithams
+#### 🗓 *Date: 19 January 2026*
+3. **EduResults – Rank Sheet Generator (Merge Sort)**
+4. **FlashDealz – Product Sorting by Discount (Quick Sort)**
+5. **FitnessTracker – Daily Step Count Ranking (Bubble Sort)**
+
+🔗 **Code Reference:**  
+👉 [Scenario-Based Question on Sorting Algo](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/SortingScenarioBased/src/com)
