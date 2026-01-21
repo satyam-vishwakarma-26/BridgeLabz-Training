@@ -891,14 +891,59 @@ Solved **Collections-based problems** across List, Set, Queue, and Map:
 🔗 **Code Reference:**  
 👉 [Scenario-Based Question on Sorting Algo](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/SortingScenarioBased/src/com)
 
----
-
 ###  🧠 Solved Scenario-Based OOPS 
-#### 🗓 *Date: 18 January 2026*
 
 1. **GeoMeasure Solutions**
 2. **Bag-n-Ball Organizer**
 
+🔗 **Code Reference:**  
+👉 [Scenario-Based Questions](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src/com)
+
+---
+
+### 🗓 Day 3: File Handling & Streams in Java  
+*Date: 19 January 2026* 
+#### 🔹 Topics Covered  
+- FileInputStream & FileOutputStream  
+- Buffered Streams and performance comparison  
+- Console input using BufferedReader  
+- Object Serialization & Deserialization  
+- ByteArray Streams  
+- Filter Streams  
+- Data Streams  
+- Piped Streams (Inter-thread communication)  
+- Efficient large file processing  
+
+### ✅ Practice Problems  
+
+1. Read and Write a Text File  
+2. File Copy using Buffered Streams  
+3. Read User Input and Save to File  
+4. Employee Data Serialization  
+5. Image to ByteArray Conversion  
+6. Uppercase to Lowercase File Conversion  
+7. Store & Retrieve Primitive Data  
+8. Piped Streams for Thread Communication  
+9. Read Large File and Filter Errors  
+10. Word Count with Top 5 Frequent Words  
+
+*🔗 Code link:*  
+[Java File Handling & Streams](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/javastreams)
+
+###  🧠 Solved Scenario-Based Questions on Sorting Algorithams
+#### 🗓 *Date: 19 January 2026*
+3. **EduResults – Rank Sheet Generator (Merge Sort)**
+4. **FlashDealz – Product Sorting by Discount (Quick Sort)**
+5. **FitnessTracker – Daily Step Count Ranking (Bubble Sort)**
+
+🔗 **Code Reference:**  
+👉 [Scenario-Based Question on Sorting Algo](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/SortingScenarioBased/src/com)
+
+###  🧠 Solved Scenario-Based OOPS 
+#### 🗓 *Date: 19 January 2026*
+
+3. **Address Book System**
+   
 🔗 **Code Reference:**  
 👉 [Scenario-Based Questions](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src/com)
 
