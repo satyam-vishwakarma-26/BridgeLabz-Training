@@ -134,6 +134,6 @@ Solved **Collections-based problems** across List, Set, Queue, and Map:
 10. Bank Transaction System (Custom + Checked)  
 
 *🔗 Code link:*  
-[Java Exception Handling Practice](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
+[Java Exception Handling Practice](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/exceptionhandling)
 
 ---
