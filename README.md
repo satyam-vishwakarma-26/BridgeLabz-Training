@@ -327,3 +327,16 @@ Queue)**
 
 🔗 **Code Reference:**  
 👉 [Scenario-Based Question on Sorting Algo](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/SortingScenarioBased/src/com)
+
+---
+
+###  🧠 Solved Scenario-Based Questions on Sorting Algorithams
+#### 🗓 *Date: 20 January 2026*
+6. **MovieTime – Theater Show Listings (Insertion Sort)**
+7. **FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)**
+8. **GamerZone – High Score Ranking System (Quick Sort)**
+
+🔗 **Code Reference:**  
+👉 [Scenario-Based Question on Sorting Algo](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/SortingScenarioBased/src/com)
+
+---
