@@ -948,3 +948,43 @@ Solved **Collections-based problems** across List, Set, Queue, and Map:
 👉 [Scenario-Based Questions](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OopsScenarioBased/src/com)
 
 ---
+
+### 🗓 Day 4: Exception Handling in Java  
+*Date: 20 January 2026*
+
+#### 🔹 Topics Covered  
+- Checked and Unchecked Exceptions  
+- Custom (User-defined) Exceptions  
+- Multiple catch blocks  
+- try-with-resources  
+- throw vs throws  
+- finally block  
+- Exception propagation  
+- Nested try-catch  
+
+### ✅ Practice Problems  
+
+1. File Not Found Handling (Checked Exception)  
+2. Division with User Input (Unchecked Exceptions)  
+3. InvalidAgeException (Custom Exception)  
+4. Array Operations with Multiple Catch  
+5. try-with-resources File Reader  
+6. throw vs throws (Interest Calculator)  
+7. finally Block Demonstration  
+8. Exception Propagation in Methods  
+9. Nested try-catch (Array & Division)  
+10. Bank Transaction System (Custom + Checked)  
+
+*🔗 Code link:*  
+[Java Exception Handling Practice](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/exceptionhandling)
+
+###  🧠 Solved Scenario-Based Questions on Sorting Algorithams
+#### 🗓 *Date: 20 January 2026*
+6. **MovieTime – Theater Show Listings (Insertion Sort)**
+7. **FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)**
+8. **GamerZone – High Score Ranking System (Quick Sort)**
+
+🔗 **Code Reference:**  
+👉 [Scenario-Based Question on Sorting Algo](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/SortingScenarioBased/src/com)
+
+---
