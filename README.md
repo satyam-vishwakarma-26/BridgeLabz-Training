@@ -106,3 +106,34 @@ Solved **Collections-based problems** across List, Set, Queue, and Map:
 [Java File Handling & Streams](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/javastreams)
 
 ---
+
+### 🗓 Day 4: Exception Handling in Java  
+*Date: 20 January 2026*
+
+#### 🔹 Topics Covered  
+- Checked and Unchecked Exceptions  
+- Custom (User-defined) Exceptions  
+- Multiple catch blocks  
+- try-with-resources  
+- throw vs throws  
+- finally block  
+- Exception propagation  
+- Nested try-catch  
+
+### ✅ Practice Problems  
+
+1. File Not Found Handling (Checked Exception)  
+2. Division with User Input (Unchecked Exceptions)  
+3. InvalidAgeException (Custom Exception)  
+4. Array Operations with Multiple Catch  
+5. try-with-resources File Reader  
+6. throw vs throws (Interest Calculator)  
+7. finally Block Demonstration  
+8. Exception Propagation in Methods  
+9. Nested try-catch (Array & Division)  
+10. Bank Transaction System (Custom + Checked)  
+
+*🔗 Code link:*  
+[Java Exception Handling Practice](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
+
+---
