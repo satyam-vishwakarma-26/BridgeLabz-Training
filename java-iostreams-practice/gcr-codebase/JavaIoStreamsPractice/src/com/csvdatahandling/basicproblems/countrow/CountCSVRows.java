@@ -9,7 +9,7 @@ public class CountCSVRows {
 
     public static void main(String[] args) {
 
-    	String fileName = "src/com/csvdatahandling/basic_problem/countRow/employees.csv";
+    	String fileName = "src/com/csvdatahandling/basicproblems/countRow/employees.csv";
 
         String line;
         int count = 0;
