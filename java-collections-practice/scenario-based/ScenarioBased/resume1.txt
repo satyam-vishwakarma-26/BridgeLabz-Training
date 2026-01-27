@@ -1,0 +1,4 @@
+Name: Amit
+Email: amit@gmail.com
+Phone: 9876543210
+Skills: Java, Spring, Python, Java
