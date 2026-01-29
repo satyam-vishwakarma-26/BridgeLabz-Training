@@ -1167,3 +1167,53 @@ Solved **Collections-based problems** across List, Set, Queue, and Map:
 5. **ExamScanner – Digital Answer Sheet Validator**
 
 ---
+
+### 🗓 Day 2: JSON Data Handling in Java  
+*Date: 24 January 2026*  
+
+#### 🔹 Topics Covered  
+- Creating and parsing JSON objects  
+- Java Object ↔ JSON conversion  
+- Reading and filtering JSON data  
+- JSON validation using Jackson / Schema  
+- JSON ↔ CSV conversion  
+- JSON ↔ XML conversion  
+- Generating JSON reports from database  
+
+### ✅ Practice Problems  
+
+#### 🔸 JSON Basics
+1. Create Student JSON Object  
+2. Convert Java Object to JSON  
+3. Read JSON and Extract Fields  
+4. Merge JSON Objects  
+5. Validate JSON Structure  
+6. Java List to JSON Array  
+7. Filter JSON Records (age > 25)  
+
+#### 🔸 Hands-on JSON Tasks
+8. Read JSON and Print Keys/Values  
+9. Filter Users by Age  
+10. Validate Email using JSON Schema  
+11. Merge JSON Files  
+12. Convert JSON ↔ XML  
+13. Convert CSV to JSON  
+14. Generate JSON from Database  
+
+### 🧠 Mini Project  
+
+**IPL and Censor Analyzer**
+- Read IPL data from JSON and CSV  
+- Apply censorship rules on team names and players  
+- Generate sanitized JSON and CSV outputs  
+
+*🔗 Code link:*  
+[JSON Handling Practice](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIoStreamsPractice/src/com/json_handling)
+
+###  🧠 Scenario-Based Questions on Collections, Generics, I/O Streams, and Regex 
+*Date: 24 January 2026*
+6. **MedInventory – Smart Hospital Inventory Tracker**  
+7. **ChatLogParser – Messaging Pattern Analyzer**
+8. **SongVault – Personal Music Library Manager** 
+9. **ExamResultUploader – Bulk Marks Processing**
+10. **DealTracker – E-Commerce Discount Validator**
