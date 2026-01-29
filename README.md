@@ -256,3 +256,13 @@ Solved **Collections-based problems** across List, Set, Queue, and Map:
 [Java Reflection & Annotations Practice](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com)
 
 ---
+
+### 🧠 Scenario-Based Questions on Collections, Generics, I/O Streams, and Regex 
+*Date: 23 January 2026*
+1. **ResumeAnalyzer – Smart Resume Filtering System**  
+2. **TravelLog – Trip Organizer for Backpackers**
+3. **FeedbackGuru – Smart Survey Analyzer** 
+4. **CodeRepoCleaner – Java File Scanner and Organizer**
+5. **ExamScanner – Digital Answer Sheet Validator**
+
+---
