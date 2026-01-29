@@ -340,3 +340,15 @@ Queue)**
 👉 [Scenario-Based Question on Sorting Algo](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/SortingScenarioBased/src/com)
 
 ---
+
+###  🧠 Solved Scenario-Based Questions on Sorting Algorithams
+#### 🗓 *Date: 21 January 2026*
+9. **TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)**
+10. **MedWarehouse – Sorting Medicines by Expiry (Merge Sort)**
+
+###  🧠 Solved Scenario-Based Questions on Tree
+#### 🗓 *Date: 21 January 2026*
+1. **Binary Search Tree (BST)**
+2.  **AVL Tree**
+
+---
