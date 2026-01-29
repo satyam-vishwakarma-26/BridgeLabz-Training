@@ -266,3 +266,13 @@ Solved **Collections-based problems** across List, Set, Queue, and Map:
 5. **ExamScanner – Digital Answer Sheet Validator**
 
 ---
+
+###  🧠 Scenario-Based Questions on Collections, Generics, I/O Streams, and Regex 
+*Date: 24 January 2026*
+6. **MedInventory – Smart Hospital Inventory Tracker**  
+7. **ChatLogParser – Messaging Pattern Analyzer**
+8. **SongVault – Personal Music Library Manager** 
+9. **ExamResultUploader – Bulk Marks Processing**
+10. **DealTracker – E-Commerce Discount Validator**
+
+---
