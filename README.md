@@ -1115,3 +1115,55 @@ Solved **Collections-based problems** across List, Set, Queue, and Map:
 [Java Reflection & Annotations Practice](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com)
 
 ---
+
+## 📅 Week 5: java IO Programming 
+
+### 🗓 Day 1 :  CSV Data Handling in Java  
+*Date: 23 january 2026*
+
+#### 🔹 Topics Covered  
+- Reading and writing CSV files  
+- Filtering and searching records  
+- Updating and sorting CSV data  
+- CSV validation using regex  
+- Converting CSV to Java objects  
+- Handling large CSV files efficiently  
+- Data merging and duplicate detection  
+- CSV ↔ JSON conversion  
+- Encrypting and decrypting CSV data  
+
+### ✅ Practice Problems  
+
+#### 🔸 Basic
+1. Read CSV and Print Records  
+2. Write Employee Data to CSV  
+3. Count Records in CSV  
+
+#### 🔸 Intermediate
+4. Filter Students by Marks  
+5. Search Employee by Name  
+6. Update Salary by Department  
+7. Sort Records by Salary  
+
+#### 🔸 Advanced
+8. Validate CSV Data  
+9. CSV to Java Objects  
+10. Merge Two CSV Files  
+11. Large CSV File Processing  
+12. Detect Duplicate Records  
+13. Generate CSV from Database  
+14. Convert JSON ↔ CSV  
+15. Encrypt & Decrypt CSV Data  
+
+*🔗 Code link:*  
+[CSV Data Handling Practice](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIoStreamsPractice/src/com/csvdatahandling)
+
+###  🧠 Scenario-Based Questions on Collections, Generics, I/O Streams, and Regex 
+*Date: 23 January 2026*
+1. **ResumeAnalyzer – Smart Resume Filtering System**  
+2. **TravelLog – Trip Organizer for Backpackers**
+3. **FeedbackGuru – Smart Survey Analyzer** 
+4. **CodeRepoCleaner – Java File Scanner and Organizer**
+5. **ExamScanner – Digital Answer Sheet Validator**
+
+---
