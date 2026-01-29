@@ -1057,3 +1057,61 @@ Solved **Collections-based problems** across List, Set, Queue, and Map:
 2.  **AVL Tree**
 
 ---
+
+### 🗓 Day 6 : Java Reflection & Annotations  
+*Date: 21 January 2026*
+
+#### 🔹 Topics Covered  
+
+*Reflection API*
+- Class metadata inspection  
+- Dynamic object creation  
+- Accessing private fields and methods  
+- Runtime annotation processing  
+- Dynamic proxies and method invocation  
+- Dependency Injection using Reflection  
+
+*Annotations*
+- Built-in annotations (@Override, @Deprecated, @SuppressWarnings)  
+- Custom annotations  
+- Repeatable annotations  
+- Annotation-based validation, logging, caching, and security  
+
+---
+
+### ✅ Practice Problems  
+
+#### 🔸 Reflection Problems
+1. Get Class Information  
+2. Access Private Fields  
+3. Invoke Private Methods  
+4. Dynamic Object Creation  
+5. Dynamic Method Invocation  
+6. Retrieve Annotations at Runtime  
+7. Modify Static Fields  
+8. Custom Object Mapper  
+9. Object to JSON Conversion  
+10. Logging Proxy using Reflection  
+11. Dependency Injection  
+12. Method Execution Timing  
+
+#### 🔸 Built-in Annotations
+13. @Override Usage  
+14. @Deprecated Methods  
+15. @SuppressWarnings  
+
+#### 🔸 Custom Annotations
+16. @TaskInfo Annotation  
+17. Repeatable @BugReport  
+18. @ImportantMethod  
+19. @Todo Annotation  
+20. @LogExecutionTime  
+21. @MaxLength Validation  
+22. @RoleAllowed Access Control  
+23. @JsonField Serialization  
+24. @CacheResult Caching  
+
+*🔗 Code link:*  
+[Java Reflection & Annotations Practice](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com)
+
+---
