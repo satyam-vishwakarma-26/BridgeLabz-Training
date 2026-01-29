@@ -137,3 +137,65 @@ Solved **Collections-based problems** across List, Set, Queue, and Map:
 [Java Exception Handling Practice](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/exceptionhandling)
 
 ---
+
+### 🗓 Day 5 :  Java Regex & JUnit Testing  
+*Date: 21 January 2026*
+#### 🔹 Topics Covered  
+
+*Regular Expressions (Regex)*
+- Pattern validation  
+- Data extraction  
+- String replacement and manipulation  
+- Advanced pattern matching  
+
+*JUnit Testing*
+- Unit testing basics  
+- Exception testing  
+- Lifecycle annotations  
+- Parameterized tests  
+- Performance testing  
+- File handling tests  
+
+---
+
+### ✅ Practice Problems  
+
+#### 🔸 Regex Problems
+1. Username Validation  
+2. License Plate Validation  
+3. Hex Color Code Validation  
+4. Extract Email Addresses  
+5. Extract Capitalized Words  
+6. Extract Dates (dd/mm/yyyy)  
+7. Extract Links  
+8. Replace Multiple Spaces  
+9. Censor Bad Words  
+10. Validate IP Address  
+11. Validate Credit Card Number  
+12. Extract Programming Languages  
+13. Extract Currency Values  
+14. Find Repeating Words  
+15. Validate SSN  
+
+#### 🔸 JUnit Problems
+16. Calculator Unit Tests  
+17. String Utility Tests  
+18. List Operations Tests  
+19. Exception Handling Tests  
+20. @BeforeEach & @AfterEach Usage  
+21. Parameterized Tests  
+22. Performance Testing with @Timeout  
+23. File Handling Tests  
+
+#### 🔸 Advanced JUnit
+24. Banking Transaction Tests  
+25. Password Strength Validator  
+26. Temperature Converter  
+27. Date Formatter  
+28. User Registration Validation  
+
+---
+
+*🔗 Code link:*  
+[Java Regex & JUnit Practice](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
+
