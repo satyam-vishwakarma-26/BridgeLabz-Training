@@ -1,0 +1,17 @@
+package com.streamapi.hospitaldoctor;
+class Doctor {
+    String name;
+    String specialty;
+    boolean availableOnWeekend;
+
+    Doctor(String name, String specialty, boolean availableOnWeekend) {
+        this.name = name;
+        this.specialty = specialty;
+        this.availableOnWeekend = availableOnWeekend;
+    }
+
+    @Override
+    public String toString() {
+        return name + " | " + specialty + " | Weekend: " + availableOnWeekend;
+    }
+}
