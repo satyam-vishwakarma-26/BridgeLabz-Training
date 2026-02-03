@@ -87,3 +87,39 @@
 [Java Interfaces Practice](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8Features/src/com/interfaces)
 
 ---
+
+### 🗓 Day 3: Java Stream API & forEach()  
+*Date: 28 January 2026*
+#### 🔹 Topics Covered  
+
+*Stream API*
+- Filtering, mapping, and sorting data  
+- Aggregation using grouping and averaging  
+- Date-based filtering  
+- Data transformation pipelines  
+
+*forEach() Method*
+- Iterating collections using lambdas  
+- Logging and notification use cases  
+- Real-time data processing  
+
+### ✅ Practice Problems  
+
+#### 🔸 Stream API
+1. Top 5 Trending Movies  
+2. Hospital Doctor Availability  
+3. Insurance Claim Analysis  
+4. Filtering Expiring Memberships  
+5. Transforming Names for Display  
+
+#### 🔸 forEach() Usage
+6. Stock Price Logger  
+7. Event Attendee Welcome Messages  
+8. IoT Sensor Readings  
+9. Email Notifications  
+10. Transaction Logging with Timestamp  
+
+*🔗 Code link:*  
+[Java Stream API Practice](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8Features/src/com/streamapi)
+
+---
