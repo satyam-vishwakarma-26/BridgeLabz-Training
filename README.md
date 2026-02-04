@@ -1311,7 +1311,7 @@ Solved **Collections-based problems** across List, Set, Queue, and Map:
 ---
 
 ### 🗓 Day 3: Java Stream API & forEach()  
-*Date: 28 January 2026*
+*Date: 29 January 2026*
 #### 🔹 Topics Covered  
 
 *Stream API*
@@ -1347,7 +1347,7 @@ Solved **Collections-based problems** across List, Set, Queue, and Map:
 ---
 
 ### 🗓 Day 4:  Java Collectors API  
-*Date: 28 January 2026*
+*Date: 30 January 2026*
 #### 🔹 Topics Covered  
 
 *Collectors*
@@ -1366,5 +1366,53 @@ Solved **Collections-based problems** across List, Set, Queue, and Map:
 
 *🔗 Code link:*  
 [Java Collectors Practice](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8Features/src/com/collectors)
+
+---
+
+### 🗓 Day 5: Smart City Transport & Service Management System  
+*Date: 31 January 2026*  
+
+#### 🔹 Topics Covered  
+
+*Java 8 Features*
+- Lambda Expressions  
+- Method References  
+- Stream API & forEach()  
+- Collectors  
+- Functional Interfaces  
+- Default & Static Methods in Interfaces  
+- Marker Interfaces  
+
+*Design Principles*
+- Interface-based extensible design  
+- Real-time data processing  
+- Clean and modular architecture  
+
+### ✅ Key Features Implemented  
+
+1. Filtering and sorting transport schedules using Lambdas  
+2. Logging and utility calls using Method References  
+3. Common service behavior using Default Interface Methods  
+4. Distance calculation using Static Interface Methods  
+5. Passenger data analysis using Stream API  
+6. Live dashboard updates using forEach()  
+7. Data aggregation using Collectors  
+   - groupingBy  
+   - partitioningBy  
+   - summarizingDouble  
+8. TransportService interface implemented by Bus, Metro, Taxi  
+9. Fare calculation using Functional Interface  
+10. Emergency service prioritization using Marker Interface  
+
+### 🧠 System Flow  
+
+- Passenger booking → Lambda-based filtering  
+- Live dashboard → forEach display  
+- Revenue reports → Stream + Collectors  
+- New service addition → Interface implementation  
+- Emergency handling → Marker interface detection  
+
+*🔗 Code link:*  
+[Smart City Transport System](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8Features/src/com/workshop/servicemanagementsystem)
 
 ---
