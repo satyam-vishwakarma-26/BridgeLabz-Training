@@ -1345,3 +1345,26 @@ Solved **Collections-based problems** across List, Set, Queue, and Map:
 [Java Stream API Practice](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8Features/src/com/streamapi)
 
 ---
+
+### 🗓 Day 4:  Java Collectors API  
+*Date: 28 January 2026*
+#### 🔹 Topics Covered  
+
+*Collectors*
+- Grouping elements  
+- Mapping and counting  
+- Summation and averaging  
+- Statistical data analysis  
+
+### ✅ Practice Problems  
+
+1. Student Result Grouping  
+2. Word Frequency Counter  
+3. Order Revenue Summary  
+4. Employee Salary Categorization  
+5. Library Book Statistics  
+
+*🔗 Code link:*  
+[Java Collectors Practice](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8Features/src/com/collectors)
+
+---
