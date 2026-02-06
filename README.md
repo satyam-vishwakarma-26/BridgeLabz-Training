@@ -1416,3 +1416,39 @@ Solved **Collections-based problems** across List, Set, Queue, and Map:
 [Smart City Transport System](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8Features/src/com/workshop/servicemanagementsystem)
 
 ---
+
+## 🗓 Week 7 – Software Design Principles, Patterns and Multithreading 
+
+### 🗓 Day 1: Introduction to Design Principles  
+*Date: 1 February 2026*  
+
+### 🔹 Topics Covered  
+
+*SOLID Principles*
+- Single Responsibility Principle (SRP)  
+- Open/Closed Principle (OCP)  
+- Liskov Substitution Principle (LSP)  
+- Interface Segregation Principle (ISP)  
+- Dependency Inversion Principle (DIP)  
+
+*General Design Principles*
+- DRY (Don't Repeat Yourself)  
+- KISS (Keep It Simple, Stupid)  
+- YAGNI (You Aren't Gonna Need It)  
+
+### 🔹 Overview  
+
+Design principles provide guidelines for writing **clean, maintainable, scalable, and extensible** software.  
+They reduce tight coupling, improve readability, and simplify future enhancements.
+
+### 🔹 Why Design Principles Matter  
+
+- Improve maintainability and scalability  
+- Reduce duplication and complexity  
+- Encourage loose coupling and high cohesion  
+- Make systems easier to extend and test  
+
+*🔗 Code link:*  
+[Week 7 – Software Design Principles](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/designpattern)
+
+---
