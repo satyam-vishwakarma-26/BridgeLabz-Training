@@ -1507,3 +1507,51 @@ They reduce tight coupling, improve readability, and simplify future enhancement
 [Week 7 – GoF Design Patterns & UML](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/designpattern)
 
 ---
+
+### 🗓 Day 3: Introduction to Java Multithreading  
+*Date: 3 February 2026*  
+
+### 🔹 Core Concepts Overview  
+
+- **Process vs Thread**
+  - Process has its own memory
+  - Threads share process memory
+- **What is Multithreading**
+  - Concurrent execution of tasks
+  - Improves performance and responsiveness
+
+### 🔹 Thread Lifecycle  
+
+- New  
+- Runnable  
+- Running  
+- Blocked / Waiting  
+- Terminated  
+
+### 🔹 Creating Threads in Java  
+
+- Extending `Thread` class  
+- Implementing `Runnable` interface *(preferred)*  
+
+### 🔹 Important Thread Features  
+
+- start(), run()  
+- sleep(), join(), yield()  
+- getName(), setName()  
+- isAlive(), interrupt()  
+- User Threads vs Daemon Threads  
+
+### ✅ Practice Problems  
+
+1. **Process vs Thread Demonstration Program**  
+2. **Thread Lifecycle Monitoring System**  
+3. **Runnable vs Thread Implementation Example**  
+4. **Banking System with Concurrent Transactions**  
+5. **Restaurant Order Processing using Threads**  
+6. **Download Manager using Multithreading**  
+7. **Print Shop Job Scheduler**  
+
+*🔗 Code link:*  
+[Week 7 – Java Multithreading](https://github.com/satyam-vishwakarma-26/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/multithreading)
+
+--
